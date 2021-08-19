@@ -24,13 +24,6 @@ body {
 .right-section {
   grid-area: "right-section";
 }
-img {
-  width: 1rem;
-  display: inline-block;
-}
-a {
-  text-decoration: none;
-}
 
 h1,
 h2 {
