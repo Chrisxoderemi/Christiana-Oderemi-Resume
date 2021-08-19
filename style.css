@@ -14,7 +14,7 @@ body {
   grid-gap: 40px;
 }
 .left-section {
-  background: url("Chris.jpg");
+  background: url("https://github.com/Chrisxoderemi/Christiana-Oderemi-Resume/blob/main/Chris.jpg?raw=true");
   height: 120vh;
   width: 200vh;
   grid-area: left-section;
